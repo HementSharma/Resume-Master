@@ -11,11 +11,20 @@ h5,
 h6 {
   padding:0;
   margin:0;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Arima Madurai', cursive;
+
+}
+
+#education h3{
+  clear:both;
 }
 
 .clear-fix {
   overflow: auto;
+}
+
+.education-entry{
+  clear:both;
 }
 
 .education-entry,
