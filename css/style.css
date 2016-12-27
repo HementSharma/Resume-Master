@@ -102,6 +102,7 @@ a {
 }
 
 .welcome-message {
+  display: none;
   font-style: italic;
   font-size: 18px;
   color: #f3f3f3;
