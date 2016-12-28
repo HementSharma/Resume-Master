@@ -13,9 +13,9 @@ var bio = {
         github: "https://github.com/HementSharma",
         location: "pune"
     },
-    welcomeMessage: "",
+    welcomeMessage: "Welcome message",
     biopic: "images/fry.jpg",
-    skills: ["HTML", "JavaScript", "CSS3", "Bootstrap", "Jquery"]
+    skills: ["HTML", "JavaScript", "CSS3", "Bootstrap"]
 };
 
 //display function is used to display the bio object's data on Resume page
